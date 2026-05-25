@@ -66,31 +66,31 @@
 		<dc:subject id="subject-10">Pennsylvania -- History -- Colonial period, ca. 1600-1775 -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-10">LCHS</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Horror</meta>
+		<dc:description id="description">Unnatural horrors strike a close-knit family after a stranger insinuates himself into their circle.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Wieland&lt;/i&gt;, the first novel by &lt;a href="https://standardebooks.org/ebooks/charles-brockden-brown/"&gt;Charles Brockden Brown&lt;/a&gt;, is set in the years following the French and Indian War on the Pennsylvania frontier. Clara Wieland recounts the experiences of her close-knit family on their secluded estate near Philadelphia, where, in the shadow of their father’s strange and unexplained death, they attempt to build a life shaped equally by religious devotion and Enlightenment rationalism. Their domestic tranquility begins to unravel when members of the household have unsettling encounters with disembodied voices. Following the arrival of Carwin, a wandering stranger with a mysterious origin and uncertain motives, the household’s descent into suspicion, fanaticism, and catastrophe accelerates.&lt;/p&gt;
+			&lt;p&gt;Published in 1798, &lt;i&gt;Wieland&lt;/i&gt; is generally regarded as the first major American Gothic novel. Brown drew on the traditions of European Gothic fiction, but placed his story in the setting of the early American republic. He focused on themes of religious fanaticism, psychological distress, and the subjectivity of sensory perception. The novel was highly influential on later American writers, particularly &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt;, and helped establish many elements of later psychological horror fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/792</dc:source>
 		<dc:source>https://archive.org/details/bim_eighteenth-century_wieland-or-the-transfor_brown-charles-brockden_1798</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Wieland</meta>
 		<meta property="se:url.vcs.github">https://github.com/PUBLISHER/charles-brockden-brown_wieland</meta>
 		<dc:creator id="author">Charles Brockden Brown</dc:creator>
 		<meta property="file-as" refines="#author">Brown, Charles Brockden</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Brockden_Brown</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79141381</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Władysław Podkowiński</dc:contributor>
+		<meta property="file-as" refines="#artist">Podkowiński, Władysław</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Władysław_Podkowiński</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82088646</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
@@ -99,9 +99,9 @@
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Ara Hacopian</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Hacopian, Ara</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://arahacopian.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
