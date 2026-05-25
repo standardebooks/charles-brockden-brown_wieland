@@ -5,6 +5,19 @@
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
