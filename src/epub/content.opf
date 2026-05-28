@@ -79,7 +79,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Wieland</meta>
-		<meta property="se:url.vcs.github">https://github.com/PUBLISHER/charles-brockden-brown_wieland</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-brockden-brown_wieland</meta>
 		<dc:creator id="author">Charles Brockden Brown</dc:creator>
 		<meta property="file-as" refines="#author">Brown, Charles Brockden</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Brockden_Brown</meta>
