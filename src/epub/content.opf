@@ -37,34 +37,34 @@
 		<meta property="file-as" refines="#fulltitle">Wieland</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85108438</meta>
 		<dc:subject id="subject-3">Epistolary fiction</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85044453</meta>
 		<dc:subject id="subject-4">Gothic fiction</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<dc:subject id="subject-5">Combustion, Spontaneous -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<dc:subject id="subject-6">Religious fanaticism -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-6">LCHS</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010110703</meta>
 		<dc:subject id="subject-7">Siblings -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-7">LCHS</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<dc:subject id="subject-8">Fathers -- Death -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-8">LCHS</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008103601</meta>
 		<dc:subject id="subject-9">Radicals -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-9">LCHS</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2008110360</meta>
 		<dc:subject id="subject-10">Pennsylvania -- History -- Colonial period, ca. 1600-1775 -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-10">LCHS</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Horror</meta>
