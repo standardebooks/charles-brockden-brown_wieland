@@ -77,7 +77,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/792</dc:source>
 		<dc:source>https://archive.org/details/bim_eighteenth-century_wieland-or-the-transfor_brown-charles-brockden_1798</dc:source>
-		<meta property="schema:wordCount">82357</meta>
+		<meta property="schema:wordCount">82358</meta>
 		<meta property="schema:educationalLevel">63.8</meta>
 		<link href="https://en.wikipedia.org/wiki/Wieland_(novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
