@@ -49,22 +49,22 @@
 		<dc:subject id="subject-4">Gothic fiction</dc:subject>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<dc:subject id="subject-5">Combustion, Spontaneous -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Combustion, Spontaneous--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<dc:subject id="subject-6">Religious fanaticism -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Religious fanaticism--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010110703</meta>
-		<dc:subject id="subject-7">Siblings -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Siblings--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
-		<dc:subject id="subject-8">Fathers -- Death -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Fathers--Death--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008103601</meta>
-		<dc:subject id="subject-9">Radicals -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Radicals--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2008110360</meta>
-		<dc:subject id="subject-10">Pennsylvania -- History -- Colonial period, ca. 1600-1775 -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Pennsylvania--History--Colonial period, ca. 1600-1775--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
